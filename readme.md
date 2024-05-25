@@ -11,7 +11,7 @@
 Steps to build and/or run the software:
 
 1. All that needs to be done is to press the play button at the top of the screen (if using the program)
-2. If using the game itself it will start playing on its own
+2. If using the game itself it will start playing on its own once the game is opened
 3.
 
 Instructions for using the software:
